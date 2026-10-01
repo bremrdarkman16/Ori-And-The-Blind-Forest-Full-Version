@@ -249,4 +249,4 @@ This repository serves as the official landing page for Ori and the Blind Forest
 **Get the most recent version of Ori and the Blind Forest today!**
 
 ---
-**Last updated:** 2026-10-01 01:06:04 UTC
+**Last updated:** 2026-10-01 08:24:20 UTC
